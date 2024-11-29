@@ -27,6 +27,6 @@ This project presents a strategic overhaul of Spotify's service model, aiming to
   - Improve customer satisfaction scores to 9/10.
 
 ## Contributors
-- **Strategists**: Virti Sheth, Hardik Shah, Khushali Rathod, Neha Kumari, Dhvanil Shah
+- **Strategists**: Dhvanil Shah, Hardik Shah, Khushali Rathod, Neha Kumari, Virti Sheth,
 
 This strategic plan establishes a foundation for strengthening Spotify's competitive edge while delivering greater value to its users through innovative solutions and user-first strategies.
